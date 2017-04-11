@@ -28,4 +28,4 @@ git clone https://github.com/danillosl/react-redux-seed.git
 cd react-redux-seed
 ```
 
-The project will be shoud be available at http://localhost:8080.
+The project shoud be available at http://localhost:8080.
